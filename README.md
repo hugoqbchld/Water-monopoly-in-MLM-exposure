@@ -29,8 +29,14 @@ This could be a big loss of revenu for Qcap if not being exposed.
 
 Qcap received a proposition, I submitting it to you the Quorum : 
 
-- Eko propose to front to Qcap 12.2 millions of qMine which would boost our 122 Qrwa share and to make them eligible for pool C (bitcoin mining revenu) & most importantly pool D (MLM water revenu)
+- Eko propose to front to Qcap 12.2 millions of qMine 
 - Qcap could start earning now and pay later 
 - At otc price of 4000 Qu each : 12,200,000 x 4000 = 48.8B
+
+  Consequence for Qcap :
+1) multiply immediately between double and triple Qcap's revenu without need to use our dry reinvestment fund
+2) our qrwa share would receive boosted reward, with pool C (bitcoin mining revenu) & MOST IMPORTANTLY pool D (MLM water revenu)
+3) qcap can pay back in range of 10 month, with better market condition in the futur, will be easier to raise fund
+4) 
   
 
