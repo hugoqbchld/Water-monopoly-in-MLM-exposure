@@ -36,16 +36,16 @@ This could be a massive lost opportunity for revenue for Qcap if we are not bein
 
 After deep conversation with Eko to get the best deal for Qcap. I am submitting it to you, the Quorum : 
 
-- Eko accept to front 12.2 million qMine to Qcap.
+- Eko accepted to front 12.2 million qMine to Qcap.
 - Qcap could start earning now and pay later.
 - At the OTC price of 4000 Qu per qMine : 12,200,000 x 4000 = 48.8B
 
 
 Beneficial Impact for Qcap:
 
-1) Multiply immediately between double and triple Qcap's revenue per epoch without the need to use our currently depleted reinvestment fund.
+1) Increasing by 30-50% Qcap's revenue per epoch instantly without the need to use our currently depleted reinvestment fund.
 -> around 25M Qu's/epoch immediately
--> fronted, Qcap don't need to deploy capital while increasing holding & revenue
+-> fronted, Qcap don't need to deploy capital now while increasing holding & revenue
    
 2) Our qRWA shares would receive boosted rewards, with pool C (bitcoin mining revenue) & MOST IMPORTANTLY pool D (MLM water revenue)
 
@@ -53,6 +53,10 @@ Beneficial Impact for Qcap:
 
 4) Gain exposure to one of the four monopolies in MLM with explosive potential 💥. 
 
+5) Higher revenue = higher ROI
+=> It will help fundraising & price action
+
+   
 I'm aware of the personal issues with some members of this Quorum. I'm appealing to them and each member of this Quorum to put Qcap's interests above any personal conflict. 
 
 This could be a decisive proposal for the future of Qcap. 
