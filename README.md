@@ -21,4 +21,16 @@ Step 5 : with 12.2m of qMine, Qcap could earn 12,200,00 x 91.125 = 1,111,725,000
 Step 6 : 1,111,725,000/3,350,717 supply
 = 331 Qu per Qcap per month
 
-MLM will be deployed on Epic Games with 800M players. This could be conservative numbers, actual number could be 10* or 100* higher
+MLM will be deployed on Epic Games with 800M players. This could be conservative numbers, actual number could be 10* or 100* higher (3310 Qu per Qcap per month or 33100 Qu per Qcap per month)
+
+The potential is phenomenal. 
+
+This could be a big loss of revenu for Qcap if not being exposed. 
+
+Qcap received a proposition, I submitting it to you the Quorum : 
+
+- Eko propose to front to Qcap 12.2 millions of qMine which would boost our 122 Qrwa share and to make them eligible for pool C (bitcoin mining revenu) & most importantly pool D (MLM water revenu)
+- Qcap could start earning now and pay later 
+- At otc price of 4000 Qu each : 12,200,000 x 4000 = 48.8B
+  
+
