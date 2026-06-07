@@ -37,7 +37,7 @@ Qcap received a proposition, I submitting it to you the Quorum :
 1) multiply immediately between double and triple Qcap's revenu without need to use our dry reinvestment fund
 2) our Qrwa share would receive boosted reward, with pool C (bitcoin mining revenu) & MOST IMPORTANTLY pool D (MLM water revenu)
 3) Qcap can pay back in range of 10 month more easily with better market condition & higher profitability
-4) gain exposition to one of the four monopoly in MLM with explosiv potential
+4) gain exposition to one of the four monopoly in MLM with explosive potential
 
 
 
