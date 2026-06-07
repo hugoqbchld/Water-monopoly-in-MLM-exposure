@@ -19,6 +19,7 @@ Step 4 : Per $qMine token
 Step 5 : with 12.2m of qMine, Qcap could earn 12,200,00 x 101.36 = 1,236,624,026 Qubic/month
 
 Step 7: [( 375,000,000 x 30 ) / 676 ] x 122= 2.03B Qubic/month from our 122 qRWA share if we made them eligible to pool D
+
 -> {2.03B is conservative, actual number will be higher because there are some qRWA not eligible}
 
 Step 8 : 1,236,624,026 +2,030,325,44
