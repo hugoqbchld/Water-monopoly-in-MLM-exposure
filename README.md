@@ -34,9 +34,9 @@ The potential is phenomenal.
 
 This could be a massive lost opportunity for revenue for Qcap if we are not being exposed. 
 
-Qcap has received a proposition. I am submitting it to you, the Quorum : 
+After deep conversation with Eko to get the best deal for Qcap. I am submitting it to you, the Quorum : 
 
-- Eko proposes to front 12.2 million qMine to Qcap.
+- Eko accept to front 12.2 million qMine to Qcap.
 - Qcap could start earning now and pay later.
 - At the OTC price of 4000 Qu per qMine : 12,200,000 x 4000 = 48.8B
 
