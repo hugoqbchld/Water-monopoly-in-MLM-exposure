@@ -18,10 +18,15 @@ Step 4 : Per $QMINE token
 
 Step 5 : with 12.2m of qMine, Qcap could earn 12,200,00 x 91.125 = 1,111,725,000 Qubic/month
 
-Step 6 : 1,111,725,000/3,350,717 supply
-= 331 Qu per Qcap per month
+Step 7 : [( 375,000,000 x 30 ) / 676 ]*122= 2.03B Qubic/month from our 122 Qrwa share if we made them eligible to pool D
 
-MLM will be deployed on Epic Games with 800M players. This could be conservative numbers, actual number could be 10* or 100* higher (3310 Qu per Qcap per month or 33100 Qu per Qcap per month)
+step 8 :1,111,725,000+2,030,325,443
+= 3,142,050,443 Qubic/month (Qrwa + qMine)
+
+step 9 : /3,500,717 supply
+= 897 Qubic per Qcap per month
+
+MLM will be deployed on Epic Games with 800M players. This could be conservative numbers, actual number could be 10* or 100* higher (8970 Qu per Qcap per month or 89700 Qu per Qcap per month)
 
 The potential is phenomenal. 
 
