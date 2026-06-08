@@ -45,16 +45,18 @@ After deep conversation with Eko to get the best deal for Qcap. I am submitting 
 Beneficial Impact for Qcap:
 
 1) Increasing by 30-50% Qcap's revenue per epoch instantly without the need to use our currently depleted reinvestment fund
-  -> around +25M Qu's/epoch immediately
-  -> fronted, Qcap don't need to deploy capital now while increasing holding & revenue
+
+->around +25M Qu's/epoch immediately
+
+-> fronted, Qcap don't need to deploy capital now while increasing holding & revenue
    
-3) Our qRWA shares would receive boosted rewards, with pool C (bitcoin mining revenue) & MOST IMPORTANTLY pool D (MLM water revenue)
+2) Our qRWA shares would receive boosted rewards, with pool C (bitcoin mining revenue) & MOST IMPORTANTLY pool D (MLM water revenue)
 
-4) Qcap can pay back the cost of the 12.2M qMine over a period of 10 months more easily with better market conditions & higher profitability.
+3) Qcap can pay back the cost of the 12.2M qMine over a period of 10 months more easily with better market conditions & higher profitability.
 
-5) Gain exposure to one of the four monopolies in MLM with explosive potential 💥. 
+4) Gain exposure to one of the four monopolies in MLM with explosive potential 💥. 
 
-6) Higher revenue = higher ROI
+5) Higher revenue = higher ROI
 => It will help fundraising & price action
 
    
