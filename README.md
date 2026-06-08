@@ -24,7 +24,8 @@ Step 6: [( 375,000,000 x 30 ) / 676 ] x 122= 2.03B Qubic/month from our 122 qRWA
 Step 7 : 1,236,624,026 +2,030,325,44
 = 3,266,849,469 Qubic/month (qRWA + qMine just for pool D)
 
-Step 8: /3,500,717 supply
+Step 8: /3,500,717 Qcap's circulating supply
+
 = 933 Qubic per Qcap per month (just with pool D, there will be on top of that additional revenue from pool A+B+C)
 
 MLM will be deployed on Epic Games with 800M players. These could be conservative numbers, actual number could be 10* or 100* higher (9330 Qu per Qcap per month or 93300 Qu per Qcap per month without counting pool A+B+C)
