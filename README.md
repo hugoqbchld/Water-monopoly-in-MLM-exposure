@@ -33,10 +33,12 @@ The potential is phenomenal.
 
 This could be a massive lost opportunity for revenue for Qcap if we are not being exposed. 
 
+As a main & true holder of Qcap, i'm also main & true holder of qMine. It's the case of many qubic's investor to be exposed to both project. as Qcap's best interest is to be exposed to all potential income engine (pool D), i took the lead to negotiate with qMine founder for an interest otc deal for Qcap in order to get exposure to pool D. 
+
 After deep conversation with Eko to get the best deal for Qcap. I am submitting it to you, the Quorum : 
 
 - Eko accepted to front 12.2 million qMine to Qcap.
-- Qcap could start earning now and pay later.
+- Qcap could start earning now from day1 after approval and pay later.
 - At the OTC price of 4000 Qu per qMine : 12,200,000 x 4000 = 48.8B
 
 
