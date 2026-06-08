@@ -46,7 +46,7 @@ Beneficial Impact for Qcap:
 
 1) Increasing by 30-50% Qcap's revenue per epoch instantly without the need to use our currently depleted reinvestment fund
 
-->around +25M Qu's/epoch immediately
+-> around +25M Qu's/epoch immediately
 
 -> fronted, Qcap don't need to deploy capital now while increasing holding & revenue
    
