@@ -57,6 +57,7 @@ Beneficial Impact for Qcap:
 4) Gain exposure to one of the four monopolies in MLM with explosive potential 💥. 
 
 5) Higher revenue = higher ROI
+
 => It will help fundraising & price action
 
    
