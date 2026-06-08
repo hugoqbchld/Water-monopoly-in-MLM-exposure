@@ -28,7 +28,11 @@ Step 8: /3,500,717 Qcap's circulating supply
 
 = 933 Qubic per Qcap per month (just with pool D, there will be on top of that additional revenue from pool A+B+C)
 
-MLM will be deployed on Epic Games with 800M players. These could be conservative numbers, actual number could be 10* or 100* higher (9330 Qu per Qcap per month or 93300 Qu per Qcap per month without counting pool A+B+C)
+MLM will likely be published on Steam or the Epic Games Store, with Epic Games being the more likely option, with 800M players. These could be conservative numbers, actual number could be 10* or 100* higher (9330 Qu per Qcap per month or 93300 Qu per Qcap per month without counting pool A+B+C)
+
+On top of that, there are pool A,B & C.
+-> pool A & C mining : CPU & GPU mining, btc mining, doge's asics mining & any coin that qubic will mine in the future
+-> pool B sc : top #1 holder with 79 MLM share, #18 holder with 10 Qx share, #14 holder with Vottun share
 
 The potential is phenomenal. 
 
