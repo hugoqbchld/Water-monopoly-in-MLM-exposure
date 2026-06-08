@@ -74,6 +74,7 @@ Vote YES ✅ to receive instantly 12.2m qMine.
 🗳️
 Vote NO ❌ to dismiss this offer and deprive Qcap of strong short term revenue & potentially explosive long term income.
 
+☮️🕊️
 
 by Qcap.
 
