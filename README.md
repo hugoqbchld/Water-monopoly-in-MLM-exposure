@@ -18,7 +18,7 @@ Step 4 : Per $qMine token
 
 Step 5 : with 12.2m of qMine, Qcap could earn 12,200,00 x 101.36 = 1,236,624,026 Qubic/month
 
-Step 6: [( 375,000,000 x 30 ) / 676 ] x 122= 2.03B Qubic/month from our 122 qRWA share if we made them eligible to pool D
+Step 6: [( 375,000,000 x 30 ) / 676 ] x 122= 2.03B Qubic/month from our 122 qRWA share if we made them eligible to pool D           
 ℹ️ -> {2.03B is conservative, actual number will be higher because there are some qRWA not eligible}
 
 Step 7 : 1,236,624,026 +2,030,325,44
@@ -44,8 +44,8 @@ After deep conversation with Eko to get the best deal for Qcap. I am submitting 
 
 Beneficial Impact for Qcap:
 
-1) Increasing by 30-50% Qcap's revenue per epoch instantly without the need to use our currently depleted reinvestment fund.
--> around 25M Qu's/epoch immediately
+1) Increasing by 30-50% Qcap's revenue per epoch instantly without the need to use our currently depleted reinvestment fund
+-> around +25M Qu's/epoch immediately
 -> fronted, Qcap don't need to deploy capital now while increasing holding & revenue
    
 2) Our qRWA shares would receive boosted rewards, with pool C (bitcoin mining revenue) & MOST IMPORTANTLY pool D (MLM water revenue)
