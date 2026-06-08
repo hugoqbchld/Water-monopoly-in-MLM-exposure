@@ -74,8 +74,6 @@ I humbly ask the Quorum to keep aside emotions, especially when a golden busines
 
 Please think about all Qcap holders, that are not part of the Quorum, but count on us to make the best decisions for them, for Qcap’s best interest. 
 
-☮️🕊️
-
 🗳️ 
 Vote YES ✅ to receive instantly 12.2m qMine.
 
