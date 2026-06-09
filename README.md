@@ -8,27 +8,27 @@ Step 1: Gross Qus generated per day
 10,000 players × 3L × 25,000 Qu × 5 game-days = 3,750,000,000 Qu/day (3.75B Qus)
 
 Step 2: Net to holders after costs
-3,750,000,000 × 80% = 3,037,500,000 Qu/day (3.04B Qus)
+3,750,000,000 × 80% = 3,000,000,000 Qu/day (3.00 B Qus)
 
 Step 3: Monthly total
-3,037,500,000 × 30 days = 91,125,000,000 Qu/month (91.1B Qus)
+3,000,000,000 × 30 days = 90,000,000,000 Qu/month (90B Qus)
 
 Step 4: Per $qMine token
-91,125,000,000 ÷ 899,000,000 supply = 101.36 Qus per token per month.
+90,000,000,000 ÷ 899,000,000 supply = 100.11 Qus per token per month.
 
-Step 5: with 12.2M of qMine, Qcap could earn 12,200,00 x 101.36 = 1,236,624,026 Qubic/month
+Step 5: with 12.2M of qMine, Qcap could earn 12,200,00 x 100.11 = 1,221,357,063 Qubic/month
 
 Step 6: [( 375,000,000 x 30 ) / 676 ] x 122= 2.03B Qubic/month from our 122 qRWA share if we made them eligible to pool D           
 ℹ️ -> {2.03B is conservative, actual number will be higher because there are some qRWA not eligible}
 
-Step 7: 1,236,624,026 +2,030,325,44
-= 3,266,849,469 Qubic/month (qRWA + qMine just for pool D)
+Step 7: 1,221,357,063 +2,030,325,443
+= 3,251,682,509 Qubic/month (qRWA + qMine just for pool D)
 
 Step 8: /3,500,717 Qcap's circulating supply
 
-= 933 Qubic per Qcap per month (just with pool D, there will be on top of that additional revenue from pool A+B+C)
+= 928 Qubic per Qcap per month (just with pool D, there will be on top of that additional revenue from pool A+B+C)
 
-MLM will likely be published on Steam or the Epic Games Store, with Epic Games being the more likely option, with 800M players. These could be conservative numbers, actual number could be 10* or 100* higher (9,330 Qu per Qcap per month or 93,300 Qu per Qcap per month without counting pool A,B & C)
+MLM will likely be published on Steam or the Epic Games Store, with Epic Games being the more likely option, with 800M players. These could be conservative numbers, actual number could be 10* or 100* higher (9,280 Qu per Qcap per month or 92,280 Qu per Qcap per month without counting pool A,B & C)
 
 On top of that, there are pools A,B, & C.
 
@@ -60,7 +60,7 @@ Beneficial Impact for Qcap:
 
 3) Qcap can pay back the cost of the 12.2M qMine over a period of 10 months more easily with better market conditions & higher profitability.
 
-4) Gain exposure to one of the four monopolies in MLM with explosive potential 💥. (high estimation at 93330 Qu/Qcap/month)
+4) Gain exposure to one of the four monopolies in MLM with explosive potential 💥. (high estimation at 92,280 Qu/Qcap/month)
 
 5) Higher revenue = higher ROI
 
