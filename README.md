@@ -60,7 +60,7 @@ Beneficial Impact for Qcap:
 
 3) Qcap can pay back the cost of the 12.2M qMine over a period of 10 months more easily with better market conditions & higher profitability.
 
-4) Gain exposure to one of the four monopolies in MLM with explosive potential 💥. 
+4) Gain exposure to one of the four monopolies in MLM with explosive potential 💥. (high estimation at 93330 Qu/Qcap/month)
 
 5) Higher revenue = higher ROI
 
