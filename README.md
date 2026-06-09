@@ -28,7 +28,7 @@ Step 8: /3,500,717 Qcap's circulating supply
 
 = 928 Qubic per Qcap per month (just with pool D, there will be on top of that additional revenue from pool A+B+C)
 
-MLM will likely be published on Steam or the Epic Games Store, with Epic Games being the more likely option, with 800M players. These could be conservative numbers, actual number could be 10* or 100* higher (9,280 Qu per Qcap per month or 92,280 Qu per Qcap per month without counting pool A,B & C)
+MLM will likely be published on Steam or the Epic Games Store, with Epic Games being the more likely option, with 800M players. These could be conservative numbers, actual number could be 10* or 100* higher (9,280 Qu per Qcap per month or 92,800 Qu per Qcap per month without counting pool A,B & C)
 
 On top of that, there are pools A,B, & C.
 
@@ -50,7 +50,7 @@ After deep negotiations with Eko to get the best deal for Qcap. I am submitting 
 
 Beneficial Impact for Qcap:
 
-1) Gain exposure to one of the four monopolies in MLM with explosive potential 💥. (high estimation at 92,280 Qu/Qcap/month)
+1) Gain exposure to one of the four monopolies in MLM with explosive potential 💥. (high estimation at 92,800 Qu/Qcap/month)
 
 2) Increasing by 30-50% Qcap's revenue per epoch instantly without the need to use our currently depleted reinvestment fund
 
