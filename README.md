@@ -13,39 +13,38 @@ Step 2: Net to holders after costs
 Step 3: Monthly total
 3,037,500,000 × 30 days = 91,125,000,000 Qu/month (91.1B Qus)
 
-Step 4 : Per $qMine token
+Step 4: Per $qMine token
 91,125,000,000 ÷ 899,000,000 supply = 101.36 Qus per token per month.
 
-Step 5 : with 12.2m of qMine, Qcap could earn 12,200,00 x 101.36 = 1,236,624,026 Qubic/month
+Step 5: with 12.2M of qMine, Qcap could earn 12,200,00 x 101.36 = 1,236,624,026 Qubic/month
 
 Step 6: [( 375,000,000 x 30 ) / 676 ] x 122= 2.03B Qubic/month from our 122 qRWA share if we made them eligible to pool D           
 ℹ️ -> {2.03B is conservative, actual number will be higher because there are some qRWA not eligible}
 
-Step 7 : 1,236,624,026 +2,030,325,44
+Step 7: 1,236,624,026 +2,030,325,44
 = 3,266,849,469 Qubic/month (qRWA + qMine just for pool D)
 
 Step 8: /3,500,717 Qcap's circulating supply
 
 = 933 Qubic per Qcap per month (just with pool D, there will be on top of that additional revenue from pool A+B+C)
 
-MLM will likely be published on Steam or the Epic Games Store, with Epic Games being the more likely option, with 800M players. These could be conservative numbers, actual number could be 10* or 100* higher (9330 Qu per Qcap per month or 93300 Qu per Qcap per month without counting pool A+B+C)
+MLM will likely be published on Steam or the Epic Games Store, with Epic Games being the more likely option, with 800M players. These could be conservative numbers, actual number could be 10* or 100* higher (9,330 Qu per Qcap per month or 93,300 Qu per Qcap per month without counting pool A,B & C)
 
-On top of that, there are pool A,B & C.
--> pool A & C mining : CPU & GPU mining, btc mining, doge's asics mining & any coin that qubic will mine in the future
--> pool B sc : top #1 holder with 79 MLM share, #18 holder with 10 Qx share, #14 holder with Vottun share
+On top of that, there are pools A,B, & C.
+-> Pool A & C mining : CPU & GPU mining, btc mining, doge's asics mining & any coin that qubic will mine in the future
+-> Pool B SC : top #1 holder with 79 MLM shares, #18 holder with 10 Qx shares, #14 holder with 12 Vottun shares
 
 The potential is phenomenal. 
 
-This could be a massive lost opportunity for revenue for Qcap if we are not being exposed. 
+This could be a massive lost opportunity regarding revenue for Qcap if we are not being exposed.
 
-As a main & true holder of Qcap, as Qcap's best interest is to be exposed to all potential income engine (pool D), i took the lead to negotiate with qMine founder for an interest otc deal for Qcap in order to get exposure to pool D. 
+As a long term & true holder of Qcap. I firmly believe that it's Qcap's best interest is to be exposed to all potential income engines (pool D), I took the lead to negotiate with qMine founder for an otc deal for Qcap in order to get exposure to pool D. 
 
-After deep conversation with Eko to get the best deal for Qcap. I am submitting it to you, the Quorum : 
+After deep negotiations with Eko to get the best deal for Qcap. I am submitting it to you, the Quorum : 
 
-- Eko accepted to front 12.2 million qMine to Qcap.
-- Qcap could start earning now from day1 after approval and pay later.
+- Eko accepted to advance 12.2 million qMine to Qcap.
+- Qcap could start earning now from day 1 after approval and pay later.
 - At the OTC price of 4000 Qu per qMine : 12,200,000 x 4000 = 48.8B
-
 
 Beneficial Impact for Qcap:
 
@@ -53,7 +52,7 @@ Beneficial Impact for Qcap:
 
 -> around +25M Qu's/epoch immediately
 
--> fronted, Qcap don't need to deploy capital now while increasing holding & revenue
+-> advanced qMine = Qcap don't need to deploy capital now while increasing holding & revenue
    
 2) Our qRWA shares would receive boosted rewards, with pool C (bitcoin mining revenue) & MOST IMPORTANTLY pool D (MLM water revenue)
 
