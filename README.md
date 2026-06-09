@@ -29,7 +29,7 @@ Step 8: /3,500,717 Qcap's circulating supply
 = 928 Qubic per Qcap per month (just with pool D, there will be on top of that additional revenue from pool A+B+C)
 
 MLM will likely be published on Steam or the Epic Games Store, with Epic Games being the more likely option, with 800M players. These could be conservative numbers, actual number could be 10* or 100* higher 
- -> 9,280 Qu per Qcap per month or 92,800 Qu per Qcap per month without counting pool A,B & C
+ => 9,280 Qu per Qcap per month or 92,800 Qu per Qcap per month without counting pool A,B & C
 
 On top of that, there are pools A,B, & C.
 
