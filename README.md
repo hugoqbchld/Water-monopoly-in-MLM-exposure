@@ -35,7 +35,8 @@ On top of that, there are pools A,B, & C.
 
 -> Pool A & C mining : CPU & GPU mining, btc mining, doge's asics mining & any coin that qubic will mine in the future
 
--> Pool B SC : top #1 holder with 79 MLM shares, #18 holder with 10 Qx shares, #14 holder with 12 Vottun shares
+-> Pool B SC : top #1 holder with 79 MLM shares, #18 holder with 10 Qx shares, #14 holder with 12 Vottun shares, top #2 holder with 110 MSVAULT shares
+
 
 The potential is phenomenal. 
 
