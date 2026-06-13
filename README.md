@@ -182,7 +182,7 @@ A first step toward peace was initiate by eko to Qcap’s holder with this kindl
 🗳️ please review your vote, there is still time to change your vote from no to yes 🗳️
 
 Each member of quorum, after deeply understanding theses 3 long text, that would change their vote from no to yes will reveal pure heart, wise and strenght. One need to be deep self-questioning, deep conscious, deeply honest to change main position about any subject.
--> anoyone able to do so will acquire my deep respect and the respect of majority p Qcap’s holder, as it require a mix of strenght and altruisme to do so
+-> anoyone able to do so will acquire my deep respect and the respect of Qcap’s holder, as it require a mix of strenght, honesty and altruisme to do so
 
 Please review honestly your view, your position and your vote 🗳️ 
 
