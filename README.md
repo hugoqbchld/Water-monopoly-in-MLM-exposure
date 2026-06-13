@@ -148,16 +148,21 @@ I firmly believe that Qcap’s best interest is to have an exposition to pool D 
 « What if we don’t have this amount » 
 
 ✅ answer 8 :
-I really doubt that Qcap won’t be abble to raise fund within 10-12 months, specially with MLM release -> high dividend will spike the demand 
+I really doubt that Qcap won’t be abble to raise fund within 10-12 months, specially with MLM release 
+-> high dividend will spike the demand 
 -> there are fundraising tht make primary market more compétitive than secondary market, will be easier from next epoch to raise fund
+
 But let’s still consider the worst case scenario, there are two solution :
+
 => Qcap sell them to refund because even if Mlm fail, their mining operation and their SC holding is enough to keep strong price action with good volume without drop of price
+
 => if Qcap is insolvent, then we return the token for insolvency so it will cancel the debt
+
 . Again, I’m very sure that 48.8B is not big deal and Qcap is more than able to raise such amount specially when qubic Will be under the light with the full product release around april 2027
 
-This sumup recapitulate why this deal on ALL points is in FAVOR of Qcap.
+This sumup recapitulate why this deal on ALL points is in FAVOR of Qcap ✅
 
-There are no valable reason to vote no, only benefit for Qcap  without any risk 
+There are no valable reason to vote no, only benefit for Qcap  without risk 
 
 I’m humbly asking each admin, each OG Qcap holder, please review your position, please review your vote. It’s Qcap’s future that is in stake.
 
