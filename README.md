@@ -188,6 +188,7 @@ Please review honestly your view, your position and your vote 🗳️
 
 Signed by :
 Not eko’s alt, neither kitkat’s alt, just a Qcap true and long term holder & member of Quorum who want the best for Qcap & for all of Qcap’s holder
+
 By Qcap, For Qcap, With Qcap
 
 ⚠️ This proposal was submited in triple by mistake, vote only GP-6/GP#6 
