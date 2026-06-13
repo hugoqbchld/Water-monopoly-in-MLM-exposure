@@ -141,7 +141,7 @@ I already made five digit fiat in primary and secondary school with the MMORPG D
 - I saw all the kid around playing and ready to buy in game money vs irl money fiat 
 - I tax 20% of each transaction 
 -> saw so much euphoria on this game that kid were buying hundreds & thousands of fiat money 
--> they were not investing, so we are not in a sum 0 game where one have to loss for another to benefit, it’s a sum 1 game => one who buy 1 qubic will spend 1 qubic, the other (who own infrastructure of game) receive 1 qubic => exponentiel revenue possible because gamers won’t invest, they will spend, deep difference that can explose 💥 income
+-> they were not investing, so we are not in a sum 0 game where one have to loss for another to benefit, it’s a sum 1 game => one who buy 1 qubic will spend 1 qubic, the other (who own infrastructure of game) receive 1 qubic => exponentiel revenue possible because gamers won’t invest, they will SPEND, DEEP difference that can explose 💥 income
 I firmly believe that Qcap’s best interest is to have an exposition to pool D and this is doable without risk as explained in answer 2
 
 ❓objection 8 :
