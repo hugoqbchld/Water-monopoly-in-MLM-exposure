@@ -177,6 +177,8 @@ If it wasn’t golden opportunity for Qcap, i would never request the Quorum..
 
 None of Qcap holder, none of qMine holder want this war. It’s actually heartbreaking to see theses two main Qubic’s figure fighting. I’m talking in the name of all bi-investor, we want PEACE. 
 
+Revo is is the proof that it's possible. When i dig into qubic's ecosytem back in january, my X file was full of revo's negative tweet about eko, now my x file is full of eko reposting revo's post and livestream about qMine.. let's evolve together .. let's chose a different path from now.. please
+
 A first step toward peace was initiate by eko to Qcap’s holder with this kindly advanced token, you can stay in bad term with eko in your personnal relation, but please you represent Qcap’s best interest here, please 🧎 I’m begging to the knees 🧎don’t let your egos ruin this golden opportunity toward Qcap’s 950 holder 🙏
 
 🗳️ please review your vote, there is still time to change your vote from no to yes 🗳️
