@@ -85,27 +85,32 @@ I will review all objection here and their answer :
 
 ❓Objection 1 : 
 « Eko’s intention »
+
 ✅ answer 1 :
 He is neither holder of Qcap neither member of this Quorum, so no matter his intention he has no decision power about Qcap
 
 ❓Objection 2 :
 « we shouldn’t open à dept of 48.8B »
+
 ✅ Answer 2 :
 We have 10-12 months to pay back, after the release of MLM when pool D potential will be reveal. Even in the worst case scenario we can either sell them to refund or return the token if Qcap is insolvent
 
 ❓Objection 3 : 
 « We shouldn’t start accumulating tokens »
+
 ✅ Answer 3 : 
 It’s not a start to accumulate tokens, accumulation of SC is a very gold strategy, this would be a one time exeception regarding POOL D exposure, water monopoly in MLM exposure. The explosive 💥 potential of revenu of that pool justify this one- time exception. I remember that high estimation is at 92,800 Qu/Qcap/month.
 
 ❓objection 4 :
 «  they’re not focusing on Qubic mining »
+
 ✅ answer 4 :
 True, 
 Due to many mining algo changing, they are focusing to mine the most profitable coin, then sell the mined token, buyback qubic on open market for distribution, so even in that case they bring value to qubic by the buy back
 
 ❓objection 5 :
 « we are already exposed to qMine with out qRWA shares no need to be over exposed »
+
 ✅ answer 5 :
 True, but qMine/qRWA have 4 pool :
 Pool A & B are distributed among all qRWA holder 
@@ -116,6 +121,7 @@ As Qcap have 0 exposure to any of the four monopolies in MLM game, it’s not ov
 
 ❓objection 6 :
 « if Qcap want to be more exposed to MLM, better to buy more MLM share » 
+
 ✅ answer 6 :
 - There is two thing vital to play : resurrection & water 
 - Qcap is already exposed to resurrection fee through our MLM share 
@@ -128,6 +134,7 @@ Also about buying more MLM share :
 
 ❓objection 7 :
 « How much should we allocate to a game ? For à maybe-one-day-this-game could succeed »
+
 ✅ answer 7 :
 I already made five digit fiat in primary and secondary school with the MMORPG Dofus. 
 - I knew seller of in game money (Kama) 
@@ -139,6 +146,7 @@ I firmly believe that Qcap’s best interest is to have an exposition to pool D 
 
 ❓objection 8 :
 « What if we don’t have this amount » 
+
 ✅ answer 8 :
 I really doubt that Qcap won’t be abble to raise fund within 10-12 months, specially with MLM release -> high dividend will spike the demand 
 -> there are fundraising tht make primary market more compétitive than secondary market, will be easier from next epoch to raise fund
@@ -158,15 +166,15 @@ I’m speaking in the name of many Qcap holder who is frustating with this posit
 If we ignore that it’s eko and qMine, such proposition to advance can’t be made with bad intention, it’s a kind gesture toward Qcap’s 950 holders, it’s a good otc price, if we would buy we would have them for 4700 each Instead of 4000, with kind condition such as advanced. 
 If it wasn’t golden opportunity for Qcap, i would never request the Quorum..
 
-I’m begging to the knees 🧎in front of each admin and each OG, each Qcap member of the quorum that voted no on GP-6, please don’t let your blindly hate toward eko harm all Qcap holder.. 
+🧎I’m begging to the knees 🧎in front of each admin and each OG, each Qcap member of the quorum that voted no on GP-6, please don’t let your blindly hate toward eko harm all Qcap holder.. 
 
-I’m begging to the knees 🧎in front of each admin, please keep your personnal conflict, personal. Please don’t bring us, Qcap’s holder into it. Let Qcap outside of it. 
+🧎I’m begging to the knees 🧎in front of each admin, please keep your personnal conflict, personal. Please don’t bring us, Qcap’s holder into it. Let Qcap outside of it. 
 
 None of Qcap holder, none of qMine holder want this war. It’s actually heartbreaking to see theses two main Qubic’s figure fighting. I’m talking in the name of all bi-investor, we want PEACE. 
 
-A first step toward peace was initiate by eko to Qcap’s holder with this kindly advanced token, you can stay in bad term with eko in your personnal relation, but please you represent Qcap’s best interest here, please I’m begging to the knees 🧎don’t let your egos ruin this golden opportunity toward Qcap’s 950 holder 🙏
+A first step toward peace was initiate by eko to Qcap’s holder with this kindly advanced token, you can stay in bad term with eko in your personnal relation, but please you represent Qcap’s best interest here, please 🧎 I’m begging to the knees 🧎don’t let your egos ruin this golden opportunity toward Qcap’s 950 holder 🙏
 
-please review your vote, there is still time to change your vote from no to yes 🗳️
+🗳️ please review your vote, there is still time to change your vote from no to yes 🗳️
 
 Each member of quorum, after deeply understanding theses 3 long text, that would change their vote from no to yes will reveal pure heart, wise and strenght. One need to be deep self-questioning, deep conscious, deeply honest to change main position about any subject.
 -> anoyone able to do so will acquire my deep respect and the respect of majority p Qcap’s holder, as it require a mix of strenght and altruisme to do so
