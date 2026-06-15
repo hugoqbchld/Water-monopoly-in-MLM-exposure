@@ -182,15 +182,9 @@ Revo is is the proof that it's possible. When i dig into qubic's ecosytem back i
 A first step toward peace was initiate by eko to Qcap’s holder with this kindly advanced token, you can stay in bad term with eko in your personnal relation (even if i dream of peace also in your personal relation), but please you represent Qcap’s best interest here, please don’t let your egos ruin this golden opportunity toward Qcap’s 950 holder 🙏
 
 
-🗳️ please review your vote, there is still time to change your vote from no to yes 🗳️
 
-Each member of quorum, after deeply understanding theses 3 long text, that would change their vote from no to yes will reveal pure heart, wise and strenght. One need to be deep self-questioning, deep conscious, deeply honest to change main position about any subject.
--> anoyone able to do so will acquire my deep respect and the respect of Qcap’s holder, as it require a mix of strenght, honesty and altruisme to do so
 
-Please review honestly your view, your position and your vote 🗳️ 
 
-Signed by :
-Not eko’s alt, neither kitkat’s alt, just a Qcap true and long term holder & member of Quorum who want the best for Qcap & for all of Qcap’s holder
 
 By Qcap, For Qcap, With Qcap
 
